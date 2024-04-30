@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\bin\Debug\net8.0\Module1Exercise.exe
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\bin\Debug\net8.0\Module1Exercise.deps.json
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\bin\Debug\net8.0\Module1Exercise.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\bin\Debug\net8.0\Module1Exercise.dll
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\bin\Debug\net8.0\Module1Exercise.pdb
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.dll
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\refint\Module1Exercise.dll
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.pdb
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\ref\Module1Exercise.dll

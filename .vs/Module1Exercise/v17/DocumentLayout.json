@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Desktop\\repos\\Module1Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53D5DCC-6A35-422A-A62B-00DBD2C0A0D7}|Module1Exercise\\Module1Exercise.csproj|c:\\users\\chris\\onedrive\\desktop\\repos\\module1exercise\\module1exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53D5DCC-6A35-422A-A62B-00DBD2C0A0D7}|Module1Exercise\\Module1Exercise.csproj|solutionrelative:module1exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\repos\\Module1Exercise\\Module1Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Module1Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\repos\\Module1Exercise\\Module1Exercise\\Program.cs",
+              "RelativeToolTip": "Module1Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:54:49.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
