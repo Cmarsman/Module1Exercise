@@ -12,3 +12,4 @@ C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\
 C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.pdb
 C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.genruntimeconfig.cache
 C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\ref\Module1Exercise.dll
+C:\Users\chris\OneDrive\Desktop\repos\Module1Exercise\Module1Exercise\obj\Debug\net8.0\Module1Exercise.sourcelink.json
