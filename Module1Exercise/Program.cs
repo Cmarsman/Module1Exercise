@@ -1,11 +1,12 @@
 ﻿using System.Security.Principal;
 
 namespace Module1Exercise
+{
 
     class Program
     {
-        static double baseLength; 
-        
+        static double baseLength;
+
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
@@ -41,7 +42,7 @@ namespace Module1Exercise
             double squareArea = SquareAreaMethod(side * side);
             Console.WriteLine("The area of the square is: " + squareArea);
         }
-        
+
         static double CircleAreaMethod(double radius)
         {
             return Math.PI * radius * radius;
@@ -54,13 +55,15 @@ namespace Module1Exercise
 
         static double RectangleAreaMethod(double length, double width)
         {
-            return (baseLength * width) / 2;
+            return (length * width) / 2;
         }
 
         static double SquareAreaMethod(double side)
-            {
+        {
             return (side * side);
-            }
+
         }
     }
+
+}    
 
